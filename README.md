@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a [Bugtracker](https://github.com/noahchernet/bugtracker)
 - 🌱 I’m a React Frontend Web Developer, studying at ALX Holberton School.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-chernet-447a24232/), [Twitter](https://twitter.com/noah_chernet), [Email](mailto:noahchernet@yahoo.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-chernet/), [Twitter](https://twitter.com/noah_chernet), [Email](mailto:noahchernet@yahoo.com)
 
 
 ## My GitHub Stats
