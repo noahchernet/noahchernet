@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a [Bugtracker](https://github.com/noahchernet/bugtracker)
 - 🌱 I’m a React Frontend Web Developer, studying at ALX Holberton School.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-chernet/), [Twitter](https://twitter.com/noah_chernet), [Email](mailto:noahchernet@yahoo.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-chernet/), [Twitter](https://twitter.com/noah_chernet), [Email](mailto:noahchernet@yahoo.com), [Upwork](https://www.upwork.com/freelancers/~0177214f5016749536)
 
 
 ## My GitHub Stats
@@ -12,7 +12,7 @@
 ### Languages I Speak💻 🌐
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
