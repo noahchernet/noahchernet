@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [Bugtracker](https://github.com/noahchernet/bugtracker)
+- 🔭 My prominent projects are a [Bugtracker](https://github.com/noahchernet/bugtracker), a fullstack web app and [GoldBolt](https://github.com/noahchernet/goldbolt-landing-page) a landing page.
 - 🌱 I’m a MERN developer, specializing in React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-chernet/), [Twitter](https://twitter.com/noah_chernet), [Email](mailto:noahchernet@yahoo.com), [Upwork](https://www.upwork.com/freelancers/~0177214f5016749536)
 
