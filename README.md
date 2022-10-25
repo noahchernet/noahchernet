@@ -7,7 +7,7 @@
 
 ## My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahchernet&show_icons=true&theme=prussian)
+//![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahchernet&show_icons=true&theme=prussian)
 
 ### Languages I Speak💻 🌐
 
