@@ -4,11 +4,6 @@
 - 🌱 I’m a MERN developer, specializing in React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-chernet/), [Twitter](https://twitter.com/noah_chernet), [Email](mailto:noahchernet@yahoo.com), [Upwork](https://www.upwork.com/freelancers/~0177214f5016749536)
 
-
-## My GitHub Stats
-
-//![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahchernet&show_icons=true&theme=prussian)
-
 ### Languages I Speak💻 🌐
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
