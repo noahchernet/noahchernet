@@ -34,16 +34,3 @@
   <img src="https://streak-stats.demolab.com?user=noahchernet&theme=gruvbox&card_width=300&hide_current_streak=true&hide_longest_streak=true" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahchernet&layout=compact&theme=vision-friendly-dark" height="192px"/>
 </div>
-
-### 📫 Connect with me
-<div style="display: flex; gap: 8px">
-  <a href="https://www.linkedin.com/in/noah-chernet/">
-    <img width="32px" src="https://github.com/noahchernet/noahchernet/assets/86301024/3b4d5c56-1457-4ff7-bc2f-c6b52200ced7"/>
-  </a>
-  <a href="https://twitter.com/noah_chernet">
-    <img width="30px" alt="logo-black" src="https://github.com/noahchernet/noahchernet/assets/86301024/5ea6ddd9-d64a-44e9-85c7-d3be2f3642c1">
-  </a>
-  <a href="mailto:noahchernet@yahoo.com">
-    <img width="40px" alt="logo-black" src="https://github.com/noahchernet/noahchernet/assets/86301024/b98042db-46de-49e7-a4c8-06a7ba0cbb0a">
-  </a>
-</div>
