@@ -2,12 +2,11 @@
 
 <h3 align="center">I'm a passionate fullstack developer</h3>
 
-
+- 🌱 I’m a professional full-stack React & Node.js developer.
 - 🔭 My prominent projects are a [Bugtracker](https://github.com/noahchernet/bugtracker), a fullstack web app and [GoldBolt](https://github.com/noahchernet/goldbolt-landing-page) a landing page.
-- 🌱 I’m a fullstack React & Node.js developer.
 
 ### 🛠 &nbsp;Languages and Tools
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -30,7 +29,7 @@
 
 
 ### My Stats
-<div style="display: flex; gap: '8px'; justify-contents: center; align-items: center">
+<div style="display: flex; gap: '8px'; justify-contents: center; align-items: center" align="center">
   <img src="https://streak-stats.demolab.com?user=noahchernet&theme=gruvbox&card_width=300&hide_current_streak=true&hide_longest_streak=true" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahchernet&layout=compact&theme=vision-friendly-dark" height="192px"/>
 </div>
